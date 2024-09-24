@@ -3,7 +3,7 @@ import { FaEdit } from "react-icons/fa";
 
 const Todo = () => {
   return (
-    <div>
+    <div style={{display:'flex', flexDirection:'row', gap:'20px'}}>
       <div>Ben ilk todoyum.</div>
       <div>
         <IoIosRemoveCircle />
