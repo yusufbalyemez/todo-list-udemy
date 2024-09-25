@@ -3,7 +3,7 @@ import Todo from './Todo'
 
 const TodoList = () => {
   return (
-    <div>
+    <div style={{width:'450px'}}>
         <Todo/>
     </div>
   )

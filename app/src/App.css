@@ -36,3 +36,8 @@
   display: flex;
   justify-content: flex-end;
 }
+.todo-icons{
+  font-size: 20px;
+  margin-right: 10px;
+  cursor: pointer;
+}
