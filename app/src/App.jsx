@@ -7,6 +7,7 @@ function App() {
     <div>
       <div
         style={{
+          width:'500px',
           display: "flex",
           flexDirection:"column",
           justifyContent: "center",
